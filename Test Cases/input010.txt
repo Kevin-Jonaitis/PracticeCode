@@ -1,0 +1,1 @@
+OR(AND(AND(OR(AND(bdc,d),OR(bb,adca)),AND(AND(cc,cdda),AND(a,cdb))),OR(AND(AND(baab,cd),AND(bbca,cdca)),AND(AND(a,ccd),OR(da,cc)))),AND(OR(AND(OR(cca,c),OR(ccd,bd)),AND(AND(bbcb,cbb),AND(b,b))),OR(AND(OR(cdad,d),OR(c,bcd)),AND(AND(cac,dcb),OR(a,bbcd)))))

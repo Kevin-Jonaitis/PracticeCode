@@ -1,0 +1,1 @@
+AND(OR(a,b),OR(c,d))
